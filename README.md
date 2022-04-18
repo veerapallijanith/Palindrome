@@ -62,7 +62,7 @@ public class Palindrome
 ```
 
 ## Output:
-!image[](https://github.com/20004426-venkatesh/Palindrome/blob/main/exp%202%20c%23.jpg)
+![image](https://github.com/20004426-venkatesh/Palindrome/blob/main/exp%202%20c%23.jpg)
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
